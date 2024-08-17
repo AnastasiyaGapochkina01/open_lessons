@@ -1,0 +1,5 @@
+---
+- hosts: '{{host|default("all")}}'
+  become: yes
+  roles:
+    - install-docker

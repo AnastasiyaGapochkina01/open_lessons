@@ -1,0 +1,10 @@
+---
+packages:
+  - git
+  - apt-transport-https
+  - ca-certificates
+  - wget
+  - curl
+  - software-properties-common
+  - bash-completion
+  - docker-ce

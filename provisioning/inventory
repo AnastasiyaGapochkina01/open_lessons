@@ -1,0 +1,6 @@
+[all]
+10.129.0.38
+
+[all:vars]
+ansible_ssh_user=anestesia
+ansible_ssh_key_file=/home/anestesia/.ssh/id_rsa
